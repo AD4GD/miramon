@@ -1,5 +1,7 @@
 ## **MiraMon Integral Index of Connectivity (ICT)** - calculating habitat connectivity
 
+![MiraMon](misc/images/miramon.png)
+
 This short guide describes the calculation process of Integral Index of Connectivity (ICT), as produced by MiraMon © software.
 It is quite simple to run calculations via the MiraMon graphical user interface for the single input dataset, but we focus on the semi-automatic processing of multiple land-use/land-cover (LULC) timeseries, with cleaning and harmonising input data to avoid common issues faced while running MiraMon.
 
